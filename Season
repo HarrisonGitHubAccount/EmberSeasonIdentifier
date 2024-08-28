@@ -1,20 +1,13 @@
 {
-  "Section1": {
-    "item1": "KingMessiah"
-  },
-  "Section2": {
-    "item2": "SourRhubarb"
-  },
-  "Section3": {
-    "item3": "HaHa"
-  },
-  "Section4": {
-    "item4": "HotPink"
-  },
-  "Section5": {
-    "item5": "Aquatic"
-  },
-  "Section6": {
-    "item6": "CarbonFibre"
+  "SeasonInfo": {
+    "SeasonName": "S1", 
+    "SeasonID": "908969121",
+    "SeasonDescription": "A cool Season",
+  
   }
+
+
+ 
+  
+ 
 }
