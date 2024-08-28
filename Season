@@ -1,1 +1,8 @@
-d
+{
+  "SeasonInfo": {
+    "SeasonName": "S1", 
+    "SeasonID": "908969121",
+    "SeasonDescription": "A cool Season",
+  
+  } 
+}
