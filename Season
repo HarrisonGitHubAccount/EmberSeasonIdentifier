@@ -1,7 +1,20 @@
 {
-  "CurrentSeason": {
-    "SeasonName": "S1",
-    "SeasonPassID": "13600173502",
-
+  "Section1": {
+    "item1": "KingMessiah"
   },
+  "Section2": {
+    "item2": "SourRhubarb"
+  },
+  "Section3": {
+    "item3": "HaHa"
+  },
+  "Section4": {
+    "item4": "HotPink"
+  },
+  "Section5": {
+    "item5": "Aquatic"
+  },
+  "Section6": {
+    "item6": "CarbonFibre"
+  }
 }
