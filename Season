@@ -1,8 +1,20 @@
 {
   "SeasonInfo": {
-    "SeasonName": "S1", 
-    "SeasonID": "908969121",
-    "SeasonDescription": "A cool Season.."
+    "Season": {
+        "Name": "S1"
+       "SeasonID": "908969121",
+       "SeasonDescription": "A cool Season..",
+       "Levels": "20",
+       "Cosmetics":,
+
+       "Name": "S2"
+       "SeasonID": "908969121",
+       "SeasonDescription": "A Nice Season..",
+       "Levels": "22",
+       "Cosmetics":
+
+      
   
+   }
   } 
 }
