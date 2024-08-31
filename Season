@@ -5,10 +5,14 @@
             "SeasonID": "908969121",
             "SeasonDescription": "A cool Season..",
             "Levels": "20",
-            "Cosmetics": "ClownDance", "KingMessiah", "SourRhubarb",
+            "Cosmetics": [
+                "SourRhubarb",
+                "Summer",
+                "Checkers",
+                "KingMessiah"
+            ],
             "SeasonImageID": "",
-
-        "Season2": {
+            "Season2": {
                 "Name": "S2",
                 "SeasonID": "908969121",
                 "SeasonDescription": "A Nice Season..",
