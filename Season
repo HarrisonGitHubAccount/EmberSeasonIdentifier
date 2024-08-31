@@ -2,6 +2,7 @@
     "SeasonInfo": {
         "Season1": {
             "Name": "S1",
+            "DisplayName": "Season 1",
             "SeasonID": "908969121",
             "SeasonDescription": "A cool Season..",
             "Levels": "20",
@@ -14,6 +15,7 @@
             "SeasonImageID": "",
             "Season2": {
                 "Name": "S2",
+                "DisplayName": "Season 2",
                 "SeasonID": "908969121",
                 "SeasonDescription": "A Nice Season..",
                 "Levels": "22",
