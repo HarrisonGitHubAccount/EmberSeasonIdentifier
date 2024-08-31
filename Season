@@ -6,12 +6,14 @@
             "SeasonDescription": "A cool Season..",
             "Levels": "20",
             "Cosmetics": "",
+            "SeasonImageID",
 
         "Season2": {
                 "Name": "S2",
                 "SeasonID": "908969121",
                 "SeasonDescription": "A Nice Season..",
                 "Levels": "22",
+                "SeasonImageID",
                 "Cosmetics": ""
             }
         }
