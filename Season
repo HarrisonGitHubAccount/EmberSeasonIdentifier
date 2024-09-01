@@ -9,13 +9,13 @@
             "SeasonID": "908969121",
             "SeasonDescription": "A cool Season..",
             "Levels": "20",
+            "SeasonImageID": "",
             "Cosmetics": [
                 "SourRhubarb",
                 "Summer",
                 "Checkers",
                 "KingMessiah"
             ],
-            "SeasonImageID": "",
             "Season2": {
                 "Name": "S2",
                 "DisplayName": "Season 2",
@@ -23,7 +23,12 @@
                 "SeasonDescription": "A Nice Season..",
                 "Levels": "22",
                 "SeasonImageID": "",
-                "Cosmetics": ""
+                "Cosmetics": [
+                    "SourRhubarb",
+                    "Summer",
+                    "Checkers",
+                    "KingMessiah"
+                ]
             }
         }
     }
