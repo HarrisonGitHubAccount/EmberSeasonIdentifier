@@ -1,7 +1,7 @@
 {
     "SeasonInfo": {
         "CurrentSeason": {
-            "CurrenetSeason": "Season2"
+            "CurrenetSeason": "Season1"
         },
         "Season1": {
             "Name": "S1",
